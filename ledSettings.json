@@ -1,0 +1,47 @@
+{
+    "Thermaltake Fans": {
+        "r":127,
+        "g":7,
+        "b":0
+    },
+    "LianLi Fans": {
+        "r":210,
+        "g":70,
+        "b":30       
+    },
+    "Waterblock Controls": {
+        "r":210,
+        "g":70,
+        "b":30      
+    },
+    "Razer Peripherals": {
+        "r":210,
+        "g":105,
+        "b":30      
+    },
+    "PS5 Controller": {
+        "r":210,
+        "g":105,
+        "b":30      
+    },
+    "AORUS AIC SSD": {
+        "r":210,
+        "g":105,
+        "b":30      
+    },
+    "AORUS Main": {
+        "r":255,
+        "g":25,
+        "b":0      
+    },
+    "Waterblock Ring": {
+        "r":255,
+        "g":25,
+        "b":0      
+    },
+    "Windows 11 Theme": {
+        "r":220,
+        "g":60,
+        "b":0          
+    }
+}
