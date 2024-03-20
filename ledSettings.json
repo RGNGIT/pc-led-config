@@ -10,9 +10,9 @@
         "b":30       
     },
     "Waterblock Controls": {
-        "r":210,
-        "g":70,
-        "b":30      
+        "r":255,
+        "g":105,
+        "b":128      
     },
     "Razer Peripherals": {
         "r":210,
@@ -35,9 +35,9 @@
         "b":0      
     },
     "Waterblock Ring": {
-        "r":255,
-        "g":25,
-        "b":0      
+        "r":101,
+        "g":48,
+        "b":36      
     },
     "Windows 11 Theme": {
         "r":220,
