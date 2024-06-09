@@ -38,5 +38,23 @@
         "r":220,
         "g":60,
         "b":0          
-    }
+    },
+    "WallpaperEngine Settings": {
+        "alignment": 0,
+        "alignmentfliph": false,
+        "alignmentposition": 95,
+        "alignmentx": 50,
+        "alignmenty": 50,
+        "alignmentz": 100,
+        "rate": 100,
+        "schemecolor": "0 0 0",
+        "tint": "0.2549019607843137 0.2196078431372549 0.20784313725490197",
+        "volume": 50,
+        "wec_brs": 45,
+        "wec_con": 50,
+        "wec_e": true,
+        "wec_hue": 50,
+        "wec_sa": 100
+    },
+    "WallpaperEngine Settings Base64": "ewogICJhbGlnbm1lbnQiOiAwLAogICJhbGlnbm1lbnRmbGlwaCI6IGZhbHNlLAogICJhbGlnbm1lbnRwb3NpdGlvbiI6IDk1LAogICJhbGlnbm1lbnR4IjogNTAsCiAgImFsaWdubWVudHkiOiA1MCwKICAiYWxpZ25tZW50eiI6IDEwMCwKICAicmF0ZSI6IDEwMCwKICAic2NoZW1lY29sb3IiOiAiMCAwIDAiLAogICJ0aW50IjogIjAuMjU0OTAxOTYwNzg0MzEzNyAwLjIxOTYwNzg0MzEzNzI1NDkgMC4yMDc4NDMxMzcyNTQ5MDE5NyIsCiAgInZvbHVtZSI6IDUwLAogICJ3ZWNfYnJzIjogNDUsCiAgIndlY19jb24iOiA1MCwKICAid2VjX2UiOiB0cnVlLAogICJ3ZWNfaHVlIjogNTAsCiAgIndlY19zYSI6IDEwMAp9"
 }
