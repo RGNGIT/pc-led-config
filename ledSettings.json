@@ -10,9 +10,28 @@
         "b":128      
     },
     "Razer Peripherals": {
-        "r":210,
-        "g":105,
-        "b":30      
+        "base": {
+            "r":255,
+            "g":25,
+            "b":0  
+        },
+        "chocolate": {
+            "r":210,
+            "g":105,
+            "b":30  
+        }  
+    },
+    "Razer Cobra Pro": {
+        "base": {
+            "r":255,
+            "g":10,
+            "b":0  
+        },
+        "chocolate": {
+            "r":210,
+            "g":75,
+            "b":30  
+        }
     },
     "PS5 Controller": {
         "r":210,
