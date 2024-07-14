@@ -11,8 +11,8 @@
     },
     "Razer Peripherals": {
         "base": {
-            "r":255,
-            "g":25,
+            "r":220,
+            "g":60,
             "b":0  
         },
         "chocolate": {
@@ -24,8 +24,8 @@
     "Razer Cobra Pro": {
         "brightness": "33%",
         "base": {
-            "r":255,
-            "g":10,
+            "r":220,
+            "g":20,
             "b":0  
         },
         "chocolate": {
