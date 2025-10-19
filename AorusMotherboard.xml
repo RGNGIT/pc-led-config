@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProfileFormat xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProfileFormat>
+    <waveMode>0</waveMode>
+    <ledMode>0</ledMode>
+    <ledColor0>13780510</ledColor0>
+    <ledColor1>0</ledColor1>
+    <ledColor2>0</ledColor2>
+    <spLv>6</spLv>
+    <briLv>6</briLv>
+    <DPh0_Cfg />
+    <DPh1_Cfg />
+    <DPh2_Cfg />
+    <DPh3_Cfg />
+    <DPh0_Setting />
+    <DPh1_Setting />
+    <DPh2_Setting />
+    <DPh3_Setting />
+  </ProfileFormat>
+  <ProfileFormat>
+    <waveMode>0</waveMode>
+    <ledMode>0</ledMode>
+    <ledColor0>16711680</ledColor0>
+    <ledColor1>0</ledColor1>
+    <ledColor2>0</ledColor2>
+    <spLv>6</spLv>
+    <briLv>6</briLv>
+    <DPh0_Cfg />
+    <DPh1_Cfg />
+    <DPh2_Cfg />
+    <DPh3_Cfg />
+    <DPh0_Setting />
+    <DPh1_Setting />
+    <DPh2_Setting />
+    <DPh3_Setting />
+  </ProfileFormat>
+  <ProfileFormat>
+    <waveMode>0</waveMode>
+    <ledMode>0</ledMode>
+    <ledColor0>13780510</ledColor0>
+    <ledColor1>0</ledColor1>
+    <ledColor2>0</ledColor2>
+    <spLv>6</spLv>
+    <briLv>6</briLv>
+    <DPh0_Cfg />
+    <DPh1_Cfg />
+    <DPh2_Cfg />
+    <DPh3_Cfg />
+    <DPh0_Setting />
+    <DPh1_Setting />
+    <DPh2_Setting />
+    <DPh3_Setting />
+  </ProfileFormat>
+  <ProfileFormat>
+    <waveMode>0</waveMode>
+    <ledMode>0</ledMode>
+    <ledColor0>13780510</ledColor0>
+    <ledColor1>0</ledColor1>
+    <ledColor2>0</ledColor2>
+    <spLv>6</spLv>
+    <briLv>6</briLv>
+    <DPh0_Cfg />
+    <DPh1_Cfg />
+    <DPh2_Cfg />
+    <DPh3_Cfg />
+    <DPh0_Setting />
+    <DPh1_Setting />
+    <DPh2_Setting />
+    <DPh3_Setting />
+  </ProfileFormat>
+  <ProfileFormat>
+    <waveMode>0</waveMode>
+    <ledMode>0</ledMode>
+    <ledColor0>16711680</ledColor0>
+    <ledColor1>0</ledColor1>
+    <ledColor2>0</ledColor2>
+    <spLv>6</spLv>
+    <briLv>6</briLv>
+    <DPh0_Cfg />
+    <DPh1_Cfg />
+    <DPh2_Cfg />
+    <DPh3_Cfg />
+    <DPh0_Setting />
+    <DPh1_Setting />
+    <DPh2_Setting />
+    <DPh3_Setting />
+  </ProfileFormat>
+  <ProfileFormat>
+    <waveMode>0</waveMode>
+    <ledMode>0</ledMode>
+    <ledColor0>16711680</ledColor0>
+    <ledColor1>0</ledColor1>
+    <ledColor2>0</ledColor2>
+    <spLv>6</spLv>
+    <briLv>6</briLv>
+    <DPh0_Cfg />
+    <DPh1_Cfg />
+    <DPh2_Cfg />
+    <DPh3_Cfg />
+    <DPh0_Setting />
+    <DPh1_Setting />
+    <DPh2_Setting />
+    <DPh3_Setting />
+  </ProfileFormat>
+  <ProfileFormat>
+    <waveMode>0</waveMode>
+    <ledMode>0</ledMode>
+    <ledColor0>13780510</ledColor0>
+    <ledColor1>0</ledColor1>
+    <ledColor2>0</ledColor2>
+    <spLv>6</spLv>
+    <briLv>6</briLv>
+    <DPh0_Cfg />
+    <DPh1_Cfg />
+    <DPh2_Cfg />
+    <DPh3_Cfg />
+    <DPh0_Setting />
+    <DPh1_Setting />
+    <DPh2_Setting />
+    <DPh3_Setting />
+  </ProfileFormat>
+</ArrayOfProfileFormat>
