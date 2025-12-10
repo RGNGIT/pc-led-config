@@ -1,14 +1,4 @@
 {
-    "LianLi Fans": {
-        "r":210,
-        "g":70,
-        "b":30       
-    },
-    "Waterblock Controls": {
-        "r":255,
-        "g":105,
-        "b":80      
-    },
     "Razer Peripherals": {
         "base": {
             "r":220,
@@ -34,20 +24,27 @@
             "b":30  
         }
     },
-    "AORUS AIC SSD": {
-        "r":200,
-        "g":140,
-        "b":70      
-    },
-    "AORUS Main": {
-        "r":210,
-        "g":70,
-        "b":30      
+    "Waterblock Controls": {
+        "r":255,
+        "g":105,
+        "b":80      
     },
     "Waterblock Ring": {
         "r":101,
         "g":48,
         "b":36      
+    },
+    "AORUS AIC SSD": {
+        "r":200,
+        "g":140,
+        "b":70,
+        "bright": 5
+    },
+    "AORUS Main": {
+        "r":210,
+        "g":70,
+        "b":30,
+        "bright": 1
     },
     "Windows Theme": {
         "r":220,
