@@ -24,27 +24,14 @@
             "b":30  
         }
     },
-    "Waterblock Controls": {
-        "r":255,
-        "g":105,
-        "b":80      
-    },
-    "Waterblock Ring": {
-        "r":101,
-        "g":48,
-        "b":36      
-    },
-    "AORUS AIC SSD": {
-        "r":200,
-        "g":140,
-        "b":70,
-        "bright": 5
-    },
     "AORUS Main": {
         "r":210,
         "g":70,
-        "b":30,
-        "bright": 1
+        "b":30
+    },
+    "LIAN Li Waterblock": {
+        "Inner": "#D24B1E",
+        "Outer": "#5E1D08"
     },
     "Windows Theme": {
         "r":220,
