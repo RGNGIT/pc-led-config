@@ -26,6 +26,11 @@
     },
     "AORUS Main": {
         "r":210,
+        "g":90,
+        "b":30
+    },
+    "AORUS Peripherals": {
+        "r":210,
         "g":70,
         "b":30
     },
