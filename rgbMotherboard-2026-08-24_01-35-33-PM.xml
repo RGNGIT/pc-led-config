@@ -70,8 +70,8 @@
   </ProfileFormat>
   <ProfileFormat>
     <waveMode>0</waveMode>
-    <ledMode>13</ledMode>
-    <ledColor0>13780510</ledColor0>
+    <ledMode>0</ledMode>
+    <ledColor0>13785630</ledColor0>
     <ledColor1>0</ledColor1>
     <ledColor2>0</ledColor2>
     <spLv>0</spLv>
